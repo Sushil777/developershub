@@ -1,2 +1,2 @@
 #Developers Connector Hub
-This app is made iwth MERN stack
+This app is made with MERN stack
